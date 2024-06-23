@@ -2,9 +2,9 @@
 
 A new Flutter project.
 
-## Getting Started
+![Screenshot 2024-06-23 164604](https://github.com/delvinjoseph13/Chat_App_flutter/assets/124490000/f5924330-b8d3-474f-ba70-8fdaa271d369)
+![Screenshot 2024-06-23 164627](https://github.com/delvinjoseph13/Chat_App_flutter/assets/124490000/b4ff593a-73be-4890-b502-b18867c03127)
 
-This project is a starting point for a Flutter application.
 
 A few resources to get you started if this is your first Flutter project:
 
